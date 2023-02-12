@@ -14,10 +14,9 @@ function changeImage()
     img.src = "sike.jpg";
 }
 
-
 let color = ["lightblue"];
 var button = document.getElementById("btncolor");
-button.addEventListener("click", function())
-{
+ button.addEventListener; "click", function()
+ {
     console.log("test");
-}
+ }
